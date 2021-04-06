@@ -1,0 +1,45 @@
+.header{
+    
+    background-color: blueviolet;
+    
+}
+.belowHeader{
+    
+    background-color: black;
+    color: blanchedalmond;
+    justify-content: center;
+    font-family:cursive;
+}
+.belowHeader h1{
+    margin-left: 600px; 
+    
+}
+ body{
+     background-color: burlywood;
+ }
+
+
+.menu {
+    display: flex;
+    justify-content:space-between;
+   font-family: Arial;
+   font-size: 20px;
+   color: cornsilk;
+}
+
+.grid{
+    display: flex;
+
+}
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.origami{
+    background-color:cornsilk;
+    border-radius:40px;
+   padding: 30px;
+   margin: 25px;
+   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
